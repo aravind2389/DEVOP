@@ -3,14 +3,28 @@ Hello! Welcome to my world
     
     HOTFIX attempt ..... DONE NEW VERSION
 
+<<<<<<< HEAD
 Coding starts-------
  
  public class AddTwoIntegers {
 
     public static void main(String[] args) {
         
+<<<<<<< HEAD
         int first = 30;
         int second = 50;
+=======
+=======
+Coding starts------ :
+      
+      public class AddTwoIntegers {
+
+    public static void main(String[] args) {
+
+>>>>>>> 898bf5e (full code updated in file1)
+        int first = 10;
+        int second = 20;
+>>>>>>> 4a64374 (full code updated in file1)
 
         System.out.println("Enter two numbers: " + first + " " + second);
         int sum = first + second;
