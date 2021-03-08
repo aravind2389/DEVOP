@@ -5,4 +5,25 @@ Hello! Welcome to my world
   
 
 Coding starts------ :
+<<<<<<< .merge_file_a10852
+      
+      public class AddTwoIntegers {
 
+    public static void main(String[] args) {
+
+=======
+ 
+ public class AddTwoIntegers {
+
+    public static void main(String[] args) {
+        
+>>>>>>> .merge_file_a12084
+        int first = 10;
+        int second = 20;
+
+        System.out.println("Enter two numbers: " + first + " " + second);
+        int sum = first + second;
+
+        System.out.println("The sum is: " + sum);
+    }
+}
